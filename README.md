@@ -1,4 +1,4 @@
-Bienvenido a mi repo en Github, Soy David Cayo, un programador junior
+Bienvenido a mi repo en Github, Soy 'David Cayo', un programador junior
 en javascript.
 Soy estudiante en la Universidad Tecnologica Nacional de Argentina, Facultad regional Mendoza.
 Curso la Tecnicatura Superior en Programacion.
